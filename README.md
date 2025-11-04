@@ -130,3 +130,14 @@ Controller → Service → Repository → Database
 
 
 Ideal for learning CRUD with Swagger integration.
+📜 License
+
+This project is open source and available under the MIT License.
+
+
+---
+
+Would you like me to add a small section at the top of the README like:  
+> 🎯 *“Built with Spring Data JPA to simplify database access and reduce boilerplate code for CRUD operations.”*  
+It gives your README a more professional developer-focused intro.
+
